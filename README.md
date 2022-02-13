@@ -14,4 +14,5 @@
 
 ## Implementation
 
-![Screenshot_1](assets/images/Screenshot_1.png) ![Screenshot_2](assets/images/Screenshot_2.png)
+![Screenshot_1](assets/images/Screenshot_20.png) 
+![Screenshot_2](assets/images/Screenshot_21.png)
